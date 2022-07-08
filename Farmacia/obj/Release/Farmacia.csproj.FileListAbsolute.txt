@@ -1,0 +1,315 @@
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\Farmacia.exe.config
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\Farmacia.exe
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\Farmacia.pdb
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\itextsharp.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\itextsharp.xmlworker.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\EnvDTE.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\stdole.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\itextsharp.xml
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.csproj.AssemblyReference.cache
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.Clientes.resources
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.filtroReportVentas.resources
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.FormLogo.resources
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.FormPresentacion.resources
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.FormUsuarios1.resources
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.FormVentas1.resources
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.Frm_CategoriaProducto.resources
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.Frm_Laboratorios.resources
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.Frm_Producto.resources
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.Frm_Usos.resources
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.Home.resources
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.Login_cajero.resources
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.Perfiles.resources
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.Properties.Resources.resources
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.Proveedores.resources
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.Registro_emp.resources
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.Reporte_Inventario.resources
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.csproj.GenerateResource.cache
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.csproj.CopyComplete
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.exe
+C:\Users\Elias Mejia\Desktop\Progra\Programación\Programación\Farmacia\obj\Release\Farmacia.pdb
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\Farmacia.exe.config
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\Farmacia.exe
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\Farmacia.pdb
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\itextsharp.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\itextsharp.xmlworker.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\EnvDTE.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\itextsharp.xml
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.csproj.AssemblyReference.cache
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.csproj.SuggestedBindingRedirects.cache
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.Clientes.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.filtroReportVentas.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.FormLogo.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.FormPresentacion.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.FormUsuarios1.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.FormVentas1.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.Frm_CategoriaProducto.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.Frm_Laboratorios.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.Frm_Producto.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.Frm_Usos.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.Home.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.Login_cajero.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.Perfiles.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.Properties.Resources.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.Proveedores.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.Registro_emp.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.Reporte_Inventario.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.csproj.GenerateResource.cache
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.csproj.CopyComplete
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.exe
+C:\Users\elmer\Desktop\CLASES\Implementacion\Programación\Programación\Farmacia\obj\Release\Farmacia.pdb
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\Farmacia.exe.config
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\Farmacia.exe
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\Farmacia.pdb
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\itextsharp.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\itextsharp.xmlworker.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\EnvDTE.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\itextsharp.xml
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.csproj.AssemblyReference.cache
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.csproj.SuggestedBindingRedirects.cache
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.Clientes.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.filtroReportVentas.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.FormLogo.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.FormPresentacion.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.FormUsuarios1.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.FormVentas1.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.Frm_CategoriaProducto.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.Frm_Laboratorios.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.Frm_Producto.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.Frm_Usos.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.Home.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.Login_cajero.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.Perfiles.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.Properties.Resources.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.Proveedores.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.Registro_emp.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.Reporte_Inventario.resources
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.csproj.GenerateResource.cache
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.csproj.CopyComplete
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.exe
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\obj\Release\Farmacia.pdb
+C:\Users\elmer\Desktop\CLASES\Implementacion\Proyecto Farmacia Familiar\Farmacia\bin\Release\stdole.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.csproj.AssemblyReference.cache
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.csproj.SuggestedBindingRedirects.cache
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.exe
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.pdb
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\Farmacia.exe.config
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\Farmacia.exe
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\Farmacia.pdb
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\BouncyCastle.Crypto.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\itextsharp.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\itextsharp.xmlworker.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\Microsoft.ReportViewer.Design.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\Microsoft.SqlServer.Types.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\EnvDTE.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\stdole.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\itextsharp.xml
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.Clientes.resources
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.filtroReportVentas.resources
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.FormLogo.resources
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.FormPresentacion.resources
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.FormUsuarios1.resources
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.FormVentas1.resources
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.Frm_CategoriaProducto.resources
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.Frm_Laboratorios.resources
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.Frm_Producto.resources
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.Frm_Usos.resources
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.Home.resources
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.Login_cajero.resources
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.Perfiles.resources
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.Properties.Resources.resources
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.Proveedores.resources
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.Registro_emp.resources
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.Reporte_Inventario.resources
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.csproj.GenerateResource.cache
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.csproj.CoreCompileInputs.cache
+D:\CLASES II PERIODO 2022\IMPLEMENTACION DE SISTEMAS DE SOFTWARE\Farmacia\obj\Release\Farmacia.csproj.CopyComplete

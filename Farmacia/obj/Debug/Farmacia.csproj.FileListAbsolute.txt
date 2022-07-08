@@ -1,0 +1,578 @@
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\bin\Debug\Farmacia.exe.config
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\bin\Debug\Farmacia.exe
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\bin\Debug\Farmacia.pdb
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Clientes.resources
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.FormLogo.resources
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.FormPresentacion.resources
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.FormUsuarios1.resources
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.FormVentas1.resources
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Frm_CategoriaProducto.resources
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Frm_Laboratorios.resources
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Frm_Producto.resources
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Frm_Usos.resources
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Home.resources
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Login_cajero.resources
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Perfiles.resources
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Proveedores.resources
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Registro_emp.resources
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.cache
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.exe
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.pdb
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.csproj.AssemblyReference.cache
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.csproj.AssemblyReference.cache
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Clientes.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Empleados_registro.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Form1.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.FormLogo.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.FormPresentacion.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.FormUsuarios1.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.FormVentas1.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Frm_CategoriaProducto.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Frm_Laboratorios.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Frm_Producto.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Frm_Usos.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Frm_Ventas.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Home.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Login_cajero.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Perfiles.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Proveedores.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Registro_emp.resources
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.cache
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\Chandia\Desktop\proyecto\Programación\Farmacia\obj\Debug\Farmacia.pdb
+D:\Escritorio\proyecto\Programación\Farmacia\bin\Debug\Farmacia.exe.config
+D:\Escritorio\proyecto\Programación\Farmacia\bin\Debug\Farmacia.exe
+D:\Escritorio\proyecto\Programación\Farmacia\bin\Debug\Farmacia.pdb
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.csproj.AssemblyReference.cache
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Clientes.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Empleados_registro.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Form1.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.FormLogo.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.FormPresentacion.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.FormUsuarios1.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.FormVentas1.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Frm_CategoriaProducto.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Frm_Laboratorios.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Frm_Producto.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Frm_Usos.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Frm_Ventas.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Home.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Login_cajero.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Perfiles.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Proveedores.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.Registro_emp.resources
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.cache
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.exe
+D:\Escritorio\proyecto\Programación\Farmacia\obj\Debug\Farmacia.pdb
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\bin\Debug\itextsharp.dll
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\bin\Debug\itextsharp.xmlworker.dll
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\bin\Debug\itextsharp.xml
+D:\Documentos\GitHub2\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.csproj.CopyComplete
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.csproj.AssemblyReference.cache
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.Clientes.resources
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.FormLogo.resources
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.FormPresentacion.resources
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.FormUsuarios1.resources
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.FormVentas1.resources
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.Frm_CategoriaProducto.resources
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.Frm_Laboratorios.resources
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.Frm_Producto.resources
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.Frm_Usos.resources
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.Home.resources
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.Login_cajero.resources
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.Perfiles.resources
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.Proveedores.resources
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.Registro_emp.resources
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.cache
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.exe
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.pdb
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.csproj.AssemblyReference.cache
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.csproj.SuggestedBindingRedirects.cache
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Clientes.resources
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.FormLogo.resources
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.FormPresentacion.resources
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.FormUsuarios1.resources
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.FormVentas1.resources
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Frm_CategoriaProducto.resources
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Frm_Laboratorios.resources
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Frm_Producto.resources
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Frm_Usos.resources
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Home.resources
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Login_cajero.resources
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Perfiles.resources
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Proveedores.resources
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.Registro_emp.resources
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.cache
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.exe
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.pdb
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\bin\Debug\Farmacia.exe.config
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\bin\Debug\Farmacia.exe
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\bin\Debug\Farmacia.pdb
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\bin\Debug\BouncyCastle.Crypto.dll
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\bin\Debug\itextsharp.dll
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\bin\Debug\itextsharp.xmlworker.dll
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\bin\Debug\itextsharp.xml
+C:\CLASES\Desarrolo-de-Software\Programación\Farmacia\obj\Debug\Farmacia.csproj.CopyComplete
+D:\Escritorio\Programación\Farmacia\bin\Debug\Farmacia.exe.config
+D:\Escritorio\Programación\Farmacia\bin\Debug\Farmacia.exe
+D:\Escritorio\Programación\Farmacia\bin\Debug\Farmacia.pdb
+D:\Escritorio\Programación\Farmacia\bin\Debug\BouncyCastle.Crypto.dll
+D:\Escritorio\Programación\Farmacia\bin\Debug\itextsharp.dll
+D:\Escritorio\Programación\Farmacia\bin\Debug\itextsharp.xmlworker.dll
+D:\Escritorio\Programación\Farmacia\bin\Debug\itextsharp.xml
+D:\Escritorio\Programación\Farmacia\obj\Debug\Farmacia.csproj.CopyComplete
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\bin\Debug\Farmacia.exe.config
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\bin\Debug\Farmacia.exe
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\bin\Debug\Farmacia.pdb
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\bin\Debug\BouncyCastle.Crypto.dll
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\bin\Debug\itextsharp.dll
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\bin\Debug\itextsharp.xmlworker.dll
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\bin\Debug\itextsharp.xml
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.csproj.AssemblyReference.cache
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.Clientes.resources
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.FormLogo.resources
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.FormPresentacion.resources
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.FormUsuarios1.resources
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.FormVentas1.resources
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.Frm_CategoriaProducto.resources
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.Frm_Laboratorios.resources
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.Frm_Producto.resources
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.Frm_Usos.resources
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.Home.resources
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.Login_cajero.resources
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.Perfiles.resources
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.Proveedores.resources
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.Registro_emp.resources
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.cache
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.csproj.CopyComplete
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.exe
+D:\Escritorio\Respaldos Proyecto\Programación\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\itextsharp.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\itextsharp.xml
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.csproj.AssemblyReference.cache
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.Clientes.resources
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.FormLogo.resources
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.FormPresentacion.resources
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.FormUsuarios1.resources
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.FormVentas1.resources
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.Frm_CategoriaProducto.resources
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.Frm_Laboratorios.resources
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.Frm_Producto.resources
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.Frm_Usos.resources
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.Home.resources
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.Login_cajero.resources
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.Perfiles.resources
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.Proveedores.resources
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.Registro_emp.resources
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.cache
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.csproj.CopyComplete
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.filtroReportVentas.resources
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\EnvDTE.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\stdole.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Downloads\Programación\Farmacia\obj\Debug\Farmacia.Reporte_Inventario.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\itextsharp.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\EnvDTE.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\stdole.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\itextsharp.xml
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.AssemblyReference.cache
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.Clientes.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.filtroReportVentas.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.FormLogo.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.FormPresentacion.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.FormUsuarios1.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.FormVentas1.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.Frm_CategoriaProducto.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.Frm_Laboratorios.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.Frm_Producto.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.Frm_Usos.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.Home.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.Login_cajero.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.Perfiles.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.Proveedores.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.Registro_emp.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.Reporte_Inventario.resources
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.cache
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.CopyComplete
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\Yobany Abrego\Downloads\Programación\Programación\Farmacia\obj\Debug\Farmacia.pdb
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\Farmacia.exe.config
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\Farmacia.exe
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\Farmacia.pdb
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\BouncyCastle.Crypto.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\itextsharp.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\itextsharp.xmlworker.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\EnvDTE.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\stdole.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\Microsoft.MSXML.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\itextsharp.xml
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.AssemblyReference.cache
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.SuggestedBindingRedirects.cache
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.Clientes.resources
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.filtroReportVentas.resources
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.FormLogo.resources
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.FormPresentacion.resources
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.FormUsuarios1.resources
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.FormVentas1.resources
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.Frm_CategoriaProducto.resources
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.Frm_Laboratorios.resources
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.Frm_Producto.resources
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.Frm_Usos.resources
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.Home.resources
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.Login_cajero.resources
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.Perfiles.resources
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.Proveedores.resources
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.Registro_emp.resources
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.Reporte_Inventario.resources
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.cache
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.CopyComplete
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.exe
+C:\CLASES\Desarrollo_Software_2022\Programación\Programación\Farmacia\obj\Debug\Farmacia.pdb
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\Farmacia.exe.config
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\Farmacia.exe
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\Farmacia.pdb
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\BouncyCastle.Crypto.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\itextsharp.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\itextsharp.xmlworker.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\EnvDTE.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\stdole.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\Microsoft.MSXML.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\itextsharp.xml
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\EnvDTE.xml
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.AssemblyReference.cache
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.Clientes.resources
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.filtroReportVentas.resources
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.FormLogo.resources
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.FormPresentacion.resources
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.FormUsuarios1.resources
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.FormVentas1.resources
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.Frm_CategoriaProducto.resources
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.Frm_Laboratorios.resources
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.Frm_Producto.resources
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.Frm_Usos.resources
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.Home.resources
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.Login_cajero.resources
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.Perfiles.resources
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.Proveedores.resources
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.Registro_emp.resources
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.Reporte_Inventario.resources
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.cache
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.CopyComplete
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.exe
+D:\Escritorio\Programación\Programación\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\itextsharp.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\EnvDTE.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\stdole.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\itextsharp.xml
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.AssemblyReference.cache
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.Clientes.resources
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.filtroReportVentas.resources
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.FormLogo.resources
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.FormPresentacion.resources
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.FormUsuarios1.resources
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.FormVentas1.resources
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.Frm_CategoriaProducto.resources
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.Frm_Laboratorios.resources
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.Frm_Producto.resources
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.Frm_Usos.resources
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.Home.resources
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.Login_cajero.resources
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.Perfiles.resources
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.Proveedores.resources
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.Registro_emp.resources
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.Reporte_Inventario.resources
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.cache
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.csproj.CopyComplete
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\Elias Mejia\Desktop\Programación\Programación\Farmacia\obj\Debug\Farmacia.pdb

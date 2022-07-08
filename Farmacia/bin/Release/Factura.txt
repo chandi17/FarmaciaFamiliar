@@ -1,0 +1,40 @@
+           Farmacia Familiar 
+
+****************************************
+
+Dirc: Barrio San Antonio
+Tel:33122949 
+RTN: 0501-2001-10666
+
+            Factura de Venta
+
+No Fac:125
+Fecha:29/6/2022 Hora:20:03
+Le Atendio: Elmer Educardo Sabillon Chan
+
+--------------------------------------------------------------------------------
+Articulo                                          Cant        P.Unit       Valor
+--------------------------------------------------------------------------------
+Sudagrip                       10         6         60
+Crema Reparadora Facial        30         6        180
+--------------------------------------------------------------------------------
+Sub-Total                          L.240
+
+ISV                                 L.36
+
+ 
+Total                              L.276
+
+ 
+Efectivo Entregado:                L.500
+
+Efectivo Devuelto:                 L.224
+
+ 
+****************************************
+
+*                           Gracias por 
+
+****************************************
+
+ 
